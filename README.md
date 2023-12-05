@@ -23,4 +23,4 @@
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#006400&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#006400&height=120&section=footer"/>
