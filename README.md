@@ -5,7 +5,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=obahia&show_icons=true&count_private=true&hide_border=true&title_color=6a5acd&icon_color=6a5acd&text_color=6a5acd&bg_color=0d1117" alt="Gabriel Carvalho github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=obahia&show_icons=true&count_private=true&hide_border=true&title_color=6a5acd&icon_color=6a5acd&text_color=6a5acd&bg_color=0d1117" alt="João Bahia github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obahia&layout=compact&hide_border=true&title_color=6a5acd&text_color=6a5acd&bg_color=0d1117" />
 </div>
 
@@ -19,14 +19,13 @@
 
 
 
-
+<div aling="center">
+  
 ### Main skills:
-
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 
 
 ### Tools:
@@ -37,6 +36,6 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-
+</div>
 
 
