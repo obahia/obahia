@@ -63,6 +63,3 @@
 
 ---
 
-## 📩 Let’s Connect!
-Open to **internships & junior roles** 💼.  
-Feel free to message me! 🚀
