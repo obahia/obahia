@@ -50,28 +50,6 @@ const me: Developer = {
 
 ---
 
-## ~/currently-building
-
-### Orbis Group
-
-> Software should simplify operations — not create more of them.
-
-I'm currently building **Orbis**, a technology company focused on creating software for real operational problems.
-
-My work involves:
-
-```txt
-Product Architecture
-├── Frontend Engineering
-├── Backend Systems
-├── APIs & Integrations
-├── Automation
-├── Cloud Infrastructure
-└── Product Development
-```
-
----
-
 ## ~/stack
 
 <div align="center">
@@ -137,34 +115,6 @@ flowchart LR
     F --> G[Improve]
     G --> B
 ```
-
-## ~/work
-
-<table>
-<tr>
-<td>
-
-### 🪐 Orbis Group
-
-**Co-Founder**
-
-Building products and technology focused on business operations, automation and software architecture.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 💻 Realize Consultoria
-
-**Software Developer**
-
-Working on business platforms, internal systems and production applications across frontend and backend.
-
-</td>
-</tr>
-</table>
 
 ---
 
