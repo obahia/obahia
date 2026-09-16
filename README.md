@@ -138,16 +138,6 @@ flowchart LR
     G --> B
 ```
 
-I like working close to the **product**, understanding the actual problem before writing code.
-
-My goal isn't just to make something work.
-
-It's to build software that is:
-
-`useful` → `maintainable` → `scalable` → `shipped`
-
----
-
 ## ~/work
 
 <table>
