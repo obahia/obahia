@@ -131,18 +131,6 @@ src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=obahia&
 
 ---
 
-## ~/activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=obahia&bg_color=00000000&color=8B949E&line=FFFFFF&point=FFFFFF&area=true&area_color=30363D&hide_border=true"
-/>
-
-</div>
-
----
-
 <div align="center">
 
 ### `while (alive) { build(); learn(); improve(); }`
