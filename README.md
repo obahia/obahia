@@ -14,8 +14,8 @@ Based in **Portugal 🇵🇹**
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/joão-bahia/)
-[![GitHub](https://img.shields.io/badge/GitHub-@obahia-111111?style=flat-square\&logo=github\&logoColor=white)](https://github.com/obahia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-bahia/)
+[![GitHub](https://img.shields.io/badge/GitHub-@obahia-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/obahia)
 
 </div>
 
@@ -27,7 +27,7 @@ Based in **Portugal 🇵🇹**
 interface Developer {
   name: string;
   role: string;
-  company: string;
+  building: string;
   location: string;
   interests: string[];
 }
@@ -35,7 +35,7 @@ interface Developer {
 const me: Developer = {
   name: "João Bahia",
   role: "Software Developer",
-  company: "Co-Founder @ Orbis Group",
+  building: "Orbis Group",
   location: "Portugal 🇵🇹",
 
   interests: [
@@ -56,13 +56,12 @@ const me: Developer = {
 
 <img src="https://skillicons.dev/icons?i=ts,react,nodejs,cloudflare,docker,postgres,tailwind,git,github,vscode&perline=10" />
 
-</div>
+<br><br>
 
-<br>
-
-<table>
+<table align="center">
 <tr>
-<td width="33%" valign="top">
+
+<td width="220" valign="top">
 
 ### Frontend
 
@@ -74,7 +73,8 @@ Vite
 ```
 
 </td>
-<td width="33%" valign="top">
+
+<td width="220" valign="top">
 
 ### Backend
 
@@ -86,7 +86,8 @@ PHP
 ```
 
 </td>
-<td width="33%" valign="top">
+
+<td width="220" valign="top">
 
 ### Infrastructure
 
@@ -98,22 +99,50 @@ Git
 ```
 
 </td>
+
 </tr>
 </table>
+
+</div>
 
 ---
 
 ## ~/how-i-build
 
-```mermaid
-flowchart LR
-    A[Idea] --> B[Product]
-    B --> C[Architecture]
-    C --> D[Build]
-    D --> E[Test]
-    E --> F[Ship]
-    F --> G[Improve]
-    G --> B
+```text
+        ┌─────────┐
+        │  Idea   │
+        └────┬────┘
+             │
+             ▼
+       ┌───────────┐
+       │  Product  │◄──────────────────────────────┐
+       └─────┬─────┘                               │
+             │                                     │
+             ▼                                     │
+     ┌──────────────┐                              │
+     │ Architecture │                              │
+     └──────┬───────┘                              │
+            │                                      │
+            ▼                                      │
+        ┌───────┐                                  │
+        │ Build │                                  │
+        └───┬───┘                                  │
+            │                                      │
+            ▼                                      │
+        ┌──────┐                                   │
+        │ Test │                                   │
+        └───┬──┘                                   │
+            │                                      │
+            ▼                                      │
+        ┌──────┐                                   │
+        │ Ship │                                   │
+        └───┬──┘                                   │
+            │                                      │
+            ▼                                      │
+      ┌───────────┐                                │
+      │  Improve  │────────────────────────────────┘
+      └───────────┘
 ```
 
 ---
@@ -123,8 +152,8 @@ flowchart LR
 <div align="center">
 
 <img
-height="165"
-src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=obahia&layout=compact&hide_border=true&theme=transparent"
+  height="165"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=obahia&layout=compact&hide_border=true&theme=transparent"
 />
 
 </div>
