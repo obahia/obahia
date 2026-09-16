@@ -1,65 +1,212 @@
-
-
-## 👋 Hi, I'm João Bahia — Software Developer  
-### 🚀 Passionate about solving problems with code and building real products
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F0F8FF&size=32&center=true&vCenter=true&width=1000&lines=Hi!+I'm+João+Bahia;Software+Developer;21+yrs+old;+Based+in+Leiria+🇵🇹;Focused+on+impactful+solutions+👨‍💻)](https://git.io/typing-svg)
-
----
-
-## 📊 GitHub Overview
-
 <div align="center">
-  
-  <a href="https://github.com/obahia">
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=obahia&layout=compact&theme=tokyonight" />
-  </a>
+
+# João Bahia
+
+**Software Developer · Co-Founder @ Orbis Group**
+
+`TypeScript` · `React` · `Cloudflare` · `Node.js`
+
+<br>
+
+Building software focused on **products, automation and real business operations**.
+
+Based in **Portugal 🇵🇹**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/joão-bahia/)
+[![GitHub](https://img.shields.io/badge/GitHub-@obahia-111111?style=flat-square\&logo=github\&logoColor=white)](https://github.com/obahia)
+
 </div>
 
 ---
 
-## 👔 Professional Snapshot
+## ~/about
 
-- 🎓 Programming & Computer Networks student  
-- 💼 Seeking internships / junior dev opportunities  
-- 💡 Backend & Frontend focus; clean architecture & performance  
-- 🧠 Always learning: writing tests, improving CI/CD, practices
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  company: string;
+  location: string;
+  interests: string[];
+}
 
----
+const me: Developer = {
+  name: "João Bahia",
+  role: "Software Developer",
+  company: "Co-Founder @ Orbis Group",
+  location: "Portugal 🇵🇹",
 
-## 💻 Tech Skills
-
-### 🧠 Core Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🔭 Currently Studying
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🛠 Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
+  interests: [
+    "Product Engineering",
+    "Full-Stack Development",
+    "SaaS",
+    "Automation",
+    "System Architecture"
+  ]
+};
+```
 
 ---
 
-## 🌐 Find Me Online
+## ~/currently-building
+
+### Orbis Group
+
+> Software should simplify operations — not create more of them.
+
+I'm currently building **Orbis**, a technology company focused on creating software for real operational problems.
+
+My work involves:
+
+```txt
+Product Architecture
+├── Frontend Engineering
+├── Backend Systems
+├── APIs & Integrations
+├── Automation
+├── Cloud Infrastructure
+└── Product Development
+```
+
+---
+
+## ~/stack
 
 <div align="center">
-<a href="https://linkedin.com/in/joão-bahia/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/bahiavt_/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,cloudflare,docker,postgres,tailwind,git,github,vscode&perline=10" />
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Frontend
+
+```txt
+TypeScript
+React
+Tailwind CSS
+Vite
+```
+
+</td>
+<td width="33%" valign="top">
+
+### Backend
+
+```txt
+Node.js
+REST APIs
+PostgreSQL
+PHP
+```
+
+</td>
+<td width="33%" valign="top">
+
+### Infrastructure
+
+```txt
+Cloudflare
+Docker
+GitHub Actions
+Git
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## ~/how-i-build
+
+```mermaid
+flowchart LR
+    A[Idea] --> B[Product]
+    B --> C[Architecture]
+    C --> D[Build]
+    D --> E[Test]
+    E --> F[Ship]
+    F --> G[Improve]
+    G --> B
+```
+
+I like working close to the **product**, understanding the actual problem before writing code.
+
+My goal isn't just to make something work.
+
+It's to build software that is:
+
+`useful` → `maintainable` → `scalable` → `shipped`
+
+---
+
+## ~/work
+
+<table>
+<tr>
+<td>
+
+### 🪐 Orbis Group
+
+**Co-Founder**
+
+Building products and technology focused on business operations, automation and software architecture.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 💻 Realize Consultoria
+
+**Software Developer**
+
+Working on business platforms, internal systems and production applications across frontend and backend.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ~/github
+
+<div align="center">
+
+<img
+height="165"
+src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=obahia&layout=compact&hide_border=true&theme=transparent"
+/>
+
 </div>
 
 ---
 
+## ~/activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=obahia&bg_color=00000000&color=8B949E&line=FFFFFF&point=FFFFFF&area=true&area_color=30363D&hide_border=true"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `while (alive) { build(); learn(); improve(); }`
+
+<sub>João Bahia · Software Developer · Orbis Group</sub>
+
+</div>
